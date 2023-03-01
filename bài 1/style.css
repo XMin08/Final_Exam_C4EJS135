@@ -1,0 +1,12 @@
+form input{
+    margin-bottom: 10px;
+}
+.text_error{
+    display: none;
+}
+.text_result{
+    display: none;
+}
+.active{
+    display: block !important;
+}
